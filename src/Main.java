@@ -6,5 +6,7 @@ public class Main {
         System.out.println("GIT");
         System.out.println("Second line");
         System.out.println("Third line");
+
+        Person person = new Person("Max", 20);
     }
 }
